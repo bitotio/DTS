@@ -10,7 +10,7 @@ x_finish = w - 50
 def key_handler(event):
     canvas.move(player1_id, 10,0)
 
-    pass
+
 
 window = Tk()
 window.title('Догони мен если сможешь')
